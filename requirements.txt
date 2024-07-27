@@ -4,3 +4,5 @@ huggingface_hub
 streamlit
 python-dotenv
 PyPDF2
+
+-e .
