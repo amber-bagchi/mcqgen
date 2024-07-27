@@ -1,0 +1,7 @@
+[2024-07-28 01:03:05,963] 134 langchain_huggingface.llms.huggingface_endpoint - WARNING - WARNING! token is not default parameter.
+                    token was transferred to model_kwargs.
+                    Please make sure that token is what you intended.
+[2024-07-28 01:03:05,979] 35 root - INFO - Template 1 defined
+[2024-07-28 01:03:06,263] 53 root - INFO - Template 2 defined
+[2024-07-28 01:03:06,263] 60 root - INFO - Review chain defined
+[2024-07-28 01:03:06,264] 72 root - INFO - Sequential chain defined
