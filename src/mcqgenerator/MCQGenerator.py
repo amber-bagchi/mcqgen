@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from src.mcqgenerator.utlis import read_file  # Correct the spelling from 'utlis' to 'utils'
-from src.mcqgenerator.logger import logger  # Ensure logger is correctly defined and imported
+from src.mcqgenerator.logger import * # Ensure logger is correctly defined and imported
 from langchain import PromptTemplate, LLMChain
 from langchain.chains import SequentialChain
 from langchain_huggingface import HuggingFaceEndpoint
